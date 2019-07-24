@@ -1,1 +1,1 @@
-rever
+reverse_each_word = []
